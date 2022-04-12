@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br/).
 
 - `NodeJS v16.14.2`
 
-### Instaçação
+### Instalação
 
 - `npm install`
 
